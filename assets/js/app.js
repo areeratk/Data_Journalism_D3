@@ -130,7 +130,7 @@ function updateToolTip(chosenXAxis, chosenYAxis,circlesGroup) {
   }
   
   
-var tipname = {poverty:"%"}
+var tipname = {poverty:"%", age:"", income:""}
 
 var tiptitle = {poverty:"Poverty", age: "Age", income: "Income", obesity: "Obesity", smokes:"Smokes", healthcare: "Healthcare"}
 

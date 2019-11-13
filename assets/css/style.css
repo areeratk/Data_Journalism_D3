@@ -1,28 +1,11 @@
 .tooltip {
-  /* position: absolute;
-  width: 135px;
-  height: 60px; */
-  padding: 2px;
-  /* padding-top: 8px;
-  font: 12px sans-serif; */
+  padding: 10px;
   color: white;
   text-align: center;
   background: #020005e8;
   border: 0;
   border-radius: 10px;
 }
-
-/* .tooltip:after {
-  box-sizing: border-box;
-  display: inline;
-  font-size: 10px;
-  width: 100%;
-  line-height: 1;
-  color: rgba(0, 0, 0, 0.8);
-  content: "\25BC";
-  position: absolute;
-  text-align: left;
-} */
 
 .iframeContainer {
   padding: 20px;
